@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "239186729171",
+    "firebase_url": "https://fir-4itf-fdb20.firebaseio.com",
+    "project_id": "fir-4itf-fdb20",
+    "storage_bucket": "fir-4itf-fdb20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239186729171:android:09dffd0cb55a22a7",
+        "android_client_info": {
+          "package_name": "com.example.davefernandez.comfernandezdaveexam2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239186729171-qcijif67ion0fjle24hdep38ifipc2rh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.davefernandez.comfernandezdaveexam2",
+            "certificate_hash": "15eec3da675c20fc7628f332193269c7ef326df8"
+          }
+        },
+        {
+          "client_id": "239186729171-ncnm3na8fnrvkmikovolqicaa43dt7hb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-HlNXOeY-XNFnrRpHlB_bnH42Ed6WMwE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239186729171-ncnm3na8fnrvkmikovolqicaa43dt7hb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
